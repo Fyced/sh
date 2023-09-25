@@ -1,3 +1,5 @@
+#!/bin/bash
+
 RED="\e[31m"
 
 echo -e "${RED}Horas   Lunes	  Martes     Miercoles	    Jueves      Viernes"
